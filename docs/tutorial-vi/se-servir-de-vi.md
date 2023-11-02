@@ -1,4 +1,3 @@
 **Se servir de l'editeur vi** 
-* Commandes de base 
-
-* Commandes avancées 
+1. Commandes de base 
+2. Commandes avancées 
