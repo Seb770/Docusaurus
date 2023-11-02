@@ -1,10 +1,10 @@
 {
-  "name": "docusaurus",
+  "name": "Docusaurus",
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "docusaurus": "docusaurus",
-    "start": "docusaurus start",
+    "docusaurus": "Docusaurus",
+    "start": "docusaurus start --host 0.0.0.0",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
@@ -23,6 +23,7 @@
     "prism-react-renderer": "^1.2.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-scripts": "^5.0.1",
     "url-loader": "^4.1.1"
   },
   "browserslist": {
